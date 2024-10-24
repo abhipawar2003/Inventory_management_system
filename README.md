@@ -1,4 +1,4 @@
-# PES2UG21CS006_PES2UG21CS022_PES2UG21CS024_PES2UG21CS058_Microservices-communication-using-RabbitMQ
+#Microservices-communication-using-RabbitMQ
 
 
 run : docker-compose up --build
